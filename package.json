@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "pixie": "^0.2.2"
+    "extend-shallow": "^2.0.1",
+    "pixie": "^1.2.0"
   },
   "name": "jstransformer-pixie",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Pixie support for JSTransformers.",
   "keywords": [
     "jstransformer"

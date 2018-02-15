@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "extend-shallow": "^2.0.1",
-    "pixie": "^1.2.0"
+    "extend-shallow": "^3.0.2",
+    "pixie": "^2.0.0"
   },
   "name": "jstransformer-pixie",
   "version": "1.0.0",

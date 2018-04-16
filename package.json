@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "pixie": "^1.2.0"
+    "extend-shallow": "^3.0.2",
+    "pixie": "^2.0.0"
   },
   "name": "jstransformer-pixie",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Pixie support for JSTransformers.",
   "keywords": [
     "jstransformer"
@@ -13,12 +14,12 @@
   ],
   "devDependencies": {
     "test-jstransformer": "^1.0.0",
-    "xo": "^0.18.1"
+    "xo": "*"
   },
   "scripts": {
     "coverage": "test-jstransformer coverage",
     "test": "test-jstransformer",
-    "posttest": "xo --space --no-semicolon index.js"
+    "posttest": "xo --space=2 --no-semicolon index.js"
   },
   "engines": {
     "node": ">=4"

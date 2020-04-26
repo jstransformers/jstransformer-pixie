@@ -1,6 +1,6 @@
 # jstransformer-pixie
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-pixie.svg)](https://greenkeeper.io/)
+
 
 [Pixie](https://github.com/jamen/pixie) support for [JSTransformers](http://github.com/jstransformers).
 

@@ -1,7 +1,5 @@
 # jstransformer-pixie
 
-
-
 [Pixie](https://github.com/jamen/pixie) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-pixie/master.svg)](https://travis-ci.org/jstransformers/jstransformer-pixie)
